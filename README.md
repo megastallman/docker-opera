@@ -10,7 +10,7 @@ download and compile the source yourself from Github:
 ```bash
 $ git clone https://github.com/megastallman/docker-opera.git
 $ cd docker-opera
-$ docker build -t zeitgeist/docker-opera .
+$ docker build -t megastallman/docker-opera .
 ```
 
 ## Usage
